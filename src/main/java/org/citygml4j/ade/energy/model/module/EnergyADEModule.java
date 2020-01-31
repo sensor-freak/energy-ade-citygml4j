@@ -55,13 +55,13 @@ import java.util.List;
 import java.util.Map;
 
 public class EnergyADEModule extends ADEModule {
-    public static final EnergyADEModule v1_0 = new EnergyADEModule();
+    public static final EnergyADEModule v2_0 = new EnergyADEModule();
 
     private HashMap<String, Class<? extends AbstractFeature>> features;
     private HashSet<String> featureProperties;
 
     public EnergyADEModule() {
-        super("http://www.sig3d.org/citygml/2.0/energy/1.0",
+        super("http://www.sig3d.org/citygml/2.0/energy/2.0",
                 "energy",
                 CityGMLVersion.v2_0_0);
 

@@ -6,7 +6,7 @@
 @rem ##########################################################################
 
 set OUTPUT="src-gen"
-set PACKAGE="org.sig3d.citygml._2.energy._1"
+set PACKAGE="org.sig3d.citygml._2.energy._2"
 set BINDING="binding.xjb"
 set SCHEMA="EnergyADE.xsd"
 set PLUGINS="-Xnamespace-prefix"

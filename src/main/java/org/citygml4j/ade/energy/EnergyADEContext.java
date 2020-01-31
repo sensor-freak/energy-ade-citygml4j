@@ -43,7 +43,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class EnergyADEContext implements ADEContext {
-    private final List<ADEModule> modules = Collections.singletonList(EnergyADEModule.v1_0);
+    private final List<ADEModule> modules = Collections.singletonList(EnergyADEModule.v2_0);
 
     @Override
     public List<ADEModule> getADEModules() {

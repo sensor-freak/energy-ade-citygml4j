@@ -11,7 +11,7 @@ sourceCompatibility = 1.8
 
 allprojects {
     group 'org.citygml4j.ade'
-    version '1.0.0'
+    version '1.2.0'
     description 'CityGML EnergyADE module for citygml4j'
 
     ext {
