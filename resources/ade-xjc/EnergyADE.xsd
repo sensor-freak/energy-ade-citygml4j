@@ -1172,12 +1172,12 @@
     <restriction base="string">
       <enumeration value="monocrystalline">
         <annotation>
-          <documentation>To make solar cells for monocrystalline solar panels, silicon is formed into bars and cut into wafers. These types of panels are called “monocrystalline” to indicate that the silicon used is single-crystal silicon.</documentation>
+          <documentation>To make solar cells for monocrystalline solar panels, silicon is formed into bars and cut into wafers. These types of panels are called "monocrystalline" to indicate that the silicon used is single-crystal silicon.</documentation>
         </annotation>
       </enumeration>
       <enumeration value="polycrystalline">
         <annotation>
-          <documentation>Polycrystalline solar panels are also referred to as “multi-crystalline,” or many-crystal silicon.</documentation>
+          <documentation>Polycrystalline solar panels are also referred to as "multi-crystalline", or many-crystal silicon.</documentation>
         </annotation>
       </enumeration>
       <enumeration value="amorphous">

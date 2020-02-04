@@ -35,14 +35,14 @@ public enum CellTypeValue {
 
 
     /**
-     * To make solar cells for monocrystalline solar panels, silicon is formed into bars and cut into wafers. These types of panels are called “monocrystalline” to indicate that the silicon used is single-crystal silicon.
+     * To make solar cells for monocrystalline solar panels, silicon is formed into bars and cut into wafers. These types of panels are called "monocrystalline" to indicate that the silicon used is single-crystal silicon.
      * 
      */
     @XmlEnumValue("monocrystalline")
     MONOCRYSTALLINE("monocrystalline"),
 
     /**
-     * Polycrystalline solar panels are also referred to as “multi-crystalline,” or many-crystal silicon.
+     * Polycrystalline solar panels are also referred to as "multi-crystalline", or many-crystal silicon.
      * 
      */
     @XmlEnumValue("polycrystalline")
