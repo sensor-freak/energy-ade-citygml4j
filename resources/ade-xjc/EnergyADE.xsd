@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!--Erzeugt mit KIT (www.kit.edu) UmlToXmlTransformation-Software, Erstellungsdatum: 22.11.2019 10:20:12-->
 <schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:energy="http://www.sig3d.org/citygml/2.0/energy/2.0" targetNamespace="http://www.sig3d.org/citygml/2.0/energy/2.0" xmlns:kit="http://www.kit.edu" xmlns:core="http://www.opengis.net/citygml/2.0" xmlns:bldg="http://www.opengis.net/citygml/building/2.0" xmlns:gml="http://www.opengis.net/gml" elementFormDefault="qualified" version="2.0">
-  <import namespace="http://www.opengis.net/citygml/2.0" schemaLocation="http://schemas.opengis.net/citygml/2.0/cityGMLBase.xsd" />
-  <import namespace="http://www.opengis.net/citygml/building/2.0" schemaLocation="http://schemas.opengis.net/citygml/building/2.0/building.xsd" />
-  <import namespace="http://www.opengis.net/citygml/generics/2.0" schemaLocation="http://schemas.opengis.net/citygml/generics/2.0/generics.xsd" />
-  <import namespace="http://www.opengis.net/citygml/cityfurniture/2.0" schemaLocation="http://schemas.opengis.net/citygml/cityfurniture/2.0/cityFurniture.xsd" /> 
-  <import namespace="http://www.opengis.net/citygml/appearance/2.0" schemaLocation="http://schemas.opengis.net/citygml/appearance/2.0/appearance.xsd" />
-  <import namespace="http://www.opengis.net/gml" schemaLocation="http://schemas.opengis.net/gml/3.1.1/base/gml.xsd" />
+  <import namespace="http://www.opengis.net/citygml/2.0" schemaLocation="../schemas/citygml/2.0.0/cityGMLBase.xsd" />
+  <import namespace="http://www.opengis.net/citygml/building/2.0" schemaLocation="../schemas/citygml/2.0.0/building.xsd" />
+  <import namespace="http://www.opengis.net/citygml/generics/2.0"  schemaLocation="../schemas/citygml/2.0.0/generics.xsd"/>
+  <import namespace="http://www.opengis.net/citygml/cityfurniture/2.0" schemaLocation="../schemas/citygml/2.0.0/cityFurniture.xsd" /> 
+  <import namespace="http://www.opengis.net/citygml/appearance/2.0" schemaLocation="../schemas/citygml/2.0.0/appearance.xsd"/>
+  <import namespace="http://www.opengis.net/gml" schemaLocation="../schemas/gml/3.1.1/base/gml.xsd" />
   <!--=========================================================================================-->
   <!--_AbstractBuilding-->
   <!--=========================================================================================-->
