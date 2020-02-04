@@ -6,6 +6,15 @@
     <jaxb:bindings generateIsSetMethod="true" underscoreBinding="asCharInWord">
       <namespace:prefix name="energy"/>
     </jaxb:bindings>
+    <jaxb:bindings node="xs:element[@name='energyPerformanceCertification']">
+      <jaxb:factoryMethod name="EnergyPerformanceCertificationProperty"/>
+    </jaxb:bindings>
+    <jaxb:bindings node="xs:element[@name='refurbishmentMeasure']">
+      <jaxb:factoryMethod name="RefurbishmentMeasureProperty"/>
+    </jaxb:bindings>
+    <jaxb:bindings node="xs:element[@name='energySystem']">
+      <jaxb:factoryMethod name="EnergySystemProperty"/>
+    </jaxb:bindings>
     <jaxb:bindings node="xs:element[@name='floorArea']">
       <jaxb:factoryMethod name="FloorAreaProperty"/>
     </jaxb:bindings>
